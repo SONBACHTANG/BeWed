@@ -554,3 +554,4 @@ C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\WebKim
 C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\WebKimCuong\obj\Debug\net6.0\WebKimCuong.pdb
 C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\WebKimCuong\obj\Debug\net6.0\WebKimCuong.genruntimeconfig.cache
 C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\WebKimCuong\obj\Debug\net6.0\ref\WebKimCuong.dll
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\WebKimCuong\obj\Debug\net6.0\WebKimCuong.sourcelink.json

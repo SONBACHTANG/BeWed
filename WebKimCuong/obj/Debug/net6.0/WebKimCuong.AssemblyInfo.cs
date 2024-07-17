@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebKimCuong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29005cc0f96ce2f7b4e46899fcb9bed6cf30689d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebKimCuong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebKimCuong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
